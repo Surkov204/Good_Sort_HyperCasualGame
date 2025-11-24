@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ac8d85f2765e54fa74ed51038c255a, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: Assembly-CSharp::UIConfigExtend
+  uiList:
+  - prefab: {fileID: 8451063918872201986, guid: 208db9f768632664a9ae153210bb3927, type: 3}
+    key: 1
+    canvasType: 2
+    animationType: 1
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 8383872067837255658, guid: 2a4772ee5afd71f49a9036242c5a56d8, type: 3}
+    key: 6
+    canvasType: 2
+    animationType: 0
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 4143954030624138650, guid: 3c15b97c5159f6545bd1f509e3f4e42c, type: 3}
+    key: 7
+    canvasType: 2
+    animationType: 2
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 638532392650574614, guid: 45c1961f005bfb149893b4d967ac5049, type: 3}
+    key: 2
+    canvasType: 2
+    animationType: 0
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 5721721461848154585, guid: 6aaacdf3d9e410943bbcf7c804c538c0, type: 3}
+    key: 8
+    canvasType: 0
+    animationType: 0
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 4080563310181563620, guid: 52892f01a45eb6b4593bf23d6b5faa59, type: 3}
+    key: 9
+    canvasType: 2
+    animationType: 0
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1
+  - prefab: {fileID: 4677148590726772095, guid: b15627f2373232246ae0914733baf7b6, type: 3}
+    key: 4
+    canvasType: 2
+    animationType: 0
+    preload: 1
+    pauseOnShowing: 1
+    destroyAfterHide: 1

@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|e:\\project\\unity\\goodssort_hypercasualgame\\assets\\script\\uipopup\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\audiocontroller\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiocontroller\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uicontrollerv_2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontrollerv_2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\pausepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\pausepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\audiocontroller\\soundfxlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiocontroller\\soundfxlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\exitconfirmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\exitconfirmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uicontrollerv_2\\enumdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontrollerv_2\\enumdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\shoppopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\shoppopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\goldmanager\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldmanager\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\gamemanager\\gameplaytimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager\\gameplaytimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\lifemanager\\lifeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lifemanager\\lifeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\lifemanager\\outoflifepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lifemanager\\outoflifepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\gamemanager\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\goldmanager\\goldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldmanager\\goldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\lifemanager\\lifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lifemanager\\lifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\goldmanager\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldmanager\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\goldmanager\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldmanager\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uicontrollerv_2\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontrollerv_2\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\uiwinnerpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\uiwinnerpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\uigameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\uigameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\uipopup\\uipopuplife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uipopup\\uipopuplife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\bottle\\bottlelinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bottle\\bottlelinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\containermanager\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\containermanager\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\define\\itemcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\define\\itemcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\singleton\\manualsingletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\singleton\\manualsingletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\assets\\script\\containermanager\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E37B8A7-22AE-2D38-7992-4FB851B99629}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\containermanager\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\AudioController\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioController\\AudioManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\AudioController\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioController\\AudioManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:20:13.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingPopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\SettingPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\SettingPopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\SettingPopup.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\SettingPopup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:19:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundFXLibrary.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\AudioController\\SoundFXLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioController\\SoundFXLibrary.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\AudioController\\SoundFXLibrary.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioController\\SoundFXLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:13:01.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExitConfirmPopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\ExitConfirmPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\ExitConfirmPopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\ExitConfirmPopup.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\ExitConfirmPopup.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:54:57.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PausePopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\PausePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\PausePopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\PausePopup.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\PausePopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:42:34.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameplayTimerUI.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameplayTimerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager\\GameplayTimerUI.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameplayTimerUI.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager\\GameplayTimerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:44:50.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager\\GameTimer.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager\\GameTimer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:38:42.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GoldUI.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\GoldUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldManager\\GoldUI.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\GoldUI.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldManager\\GoldUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:21:52.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopItem.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\ShopItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldManager\\ShopItem.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\ShopItem.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldManager\\ShopItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:21:20.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RewardCalculator.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\RewardCalculator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldManager\\RewardCalculator.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\RewardCalculator.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldManager\\RewardCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:20:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GoldManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\GoldManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldManager\\GoldManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GoldManager\\GoldManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldManager\\GoldManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:20:11.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIBase.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\UIBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIControllerV_2\\UIBase.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\UIBase.cs",
+              "RelativeToolTip": "Assets\\Script\\UIControllerV_2\\UIBase.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAMwIMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:58:28.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopPopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\ShopPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\ShopPopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\ShopPopup.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\ShopPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:54:46.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIControllerV_2\\UIManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UIControllerV_2\\UIManager.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAwwMkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:11:01.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIWinnerPopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIWinnerPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\UIWinnerPopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIWinnerPopup.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\UIWinnerPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:10:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIPopupLife.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIPopupLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\UIPopupLife.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIPopupLife.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\UIPopupLife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:09:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UIGameOverScreen.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIGameOverScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\UIGameOverScreen.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\UIGameOverScreen.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\UIGameOverScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:02:47.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIPopup\\MainMenu.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIPopup\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\UIPopup\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:56:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OutOfLifePopup.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\OutOfLifePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LifeManager\\OutOfLifePopup.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\OutOfLifePopup.cs",
+              "RelativeToolTip": "Assets\\Script\\LifeManager\\OutOfLifePopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:55:54.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumDefine.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\EnumDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIControllerV_2\\EnumDefine.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\UIControllerV_2\\EnumDefine.cs",
+              "RelativeToolTip": "Assets\\Script\\UIControllerV_2\\EnumDefine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:54:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager\\GameManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager\\GameManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:49:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LifeUIController.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\LifeUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LifeManager\\LifeUIController.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\LifeUIController.cs",
+              "RelativeToolTip": "Assets\\Script\\LifeManager\\LifeUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:49:34.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LifeManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\LifeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LifeManager\\LifeManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\LifeManager\\LifeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LifeManager\\LifeManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:48:56.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BottleLineManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\Bottle\\BottleLineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bottle\\BottleLineManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\Bottle\\BottleLineManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Bottle\\BottleLineManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:36:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ItemColor.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\Define\\ItemColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Define\\ItemColor.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\Define\\ItemColor.cs",
+              "RelativeToolTip": "Assets\\Script\\Define\\ItemColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:40:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\ContainerManager\\Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ContainerManager\\Slot.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\ContainerManager\\Slot.cs",
+              "RelativeToolTip": "Assets\\Script\\ContainerManager\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:39:54.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\ContainerManager\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ContainerManager\\SlotManager.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\ContainerManager\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ContainerManager\\SlotManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:37:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManualSingletonMono.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\SingleTon\\ManualSingletonMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SingleTon\\ManualSingletonMono.cs",
+              "ToolTip": "E:\\Project\\Unity\\GoodsSort_HyperCasualGame\\Assets\\Script\\SingleTon\\ManualSingletonMono.cs",
+              "RelativeToolTip": "Assets\\Script\\SingleTon\\ManualSingletonMono.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:37:47.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
